@@ -13,3 +13,42 @@ A simple Java console application to **log**, **view**, and **generate reports**
 ---
 
 ## 📁 Folder Structure
+Powercut-Logger/
+├── src/ → Java source code
+│ └── Main.java
+├── data/ → Stores outages.txt (auto-created)
+├── reports/ → Stores generated summary report
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+
+1. Open in IntelliJ or compile manually:
+javac Main.java
+java Main
+
+
+
+
+2. Choose options from the menu:
+- Add outage
+- View records
+- Generate report
+
+---
+
+## 🛠️ Tech Used
+
+- Java
+- File I/O
+- LocalDateTime, ArrayList, HashMap
+
+---
+
+## 👨‍💻 Author
+
+John Remedy
+Student at xyz university
+Aspiring Software Developer
