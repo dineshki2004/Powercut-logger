@@ -49,6 +49,6 @@ java Main
 
 ## 👨‍💻 Author
 
-John Remedy
-Student at xyz university
+P. Dinesh Krishnan
+Btech ECE , Final year Student , SRM university
 Aspiring Software Developer
